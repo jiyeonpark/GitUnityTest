@@ -3,13 +3,13 @@ using System.Collections;
 
 public class GitTestCode : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-	
+	void Start () 
+    {
+        Debug.Log("Git & Unity 연동 테스트!!");
 	}
-	
-	// Update is called once per frame
-	void Update () {
+
+	void Update () 
+    {
 	
 	}
 }
